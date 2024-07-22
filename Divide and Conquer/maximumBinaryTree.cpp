@@ -22,8 +22,6 @@ The recursive calls are as follow:
     - The largest value in [0,5] is 5. Left prefix is [0] and right suffix is [].
         - Only one element, so child is a node with value 0.
         - Empty array, so no child.
-
-
 */
 
 
