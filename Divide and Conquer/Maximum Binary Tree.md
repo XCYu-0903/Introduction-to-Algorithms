@@ -10,7 +10,7 @@ Return the maximum binary tree built from nums.
 
 
 
-**Example 1:**
+**Example 1**
 
 *Input:* nums = [3,2,1,6,0,5]  
 
