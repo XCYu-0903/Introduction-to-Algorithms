@@ -20,12 +20,14 @@ Using dynamic programming, construct the optimal binary search tree (BST) and de
 
 **Example 2**
 
-*Input*  
+*Input:*  
+
 3
 
 0.1 0.35 0.2 0.05 0.1 0.15 0.05
 
-*Output*  
+*Output:*
+
 1.85
 
 **Solution**
