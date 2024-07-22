@@ -8,13 +8,17 @@ Given an integer array *prices*, where each element represents the closing price
 **Example 1**
 
 *Input:*
+
 5
+
 9 7 5 4 6
 
 *Output:*
+
 8
 
 *Explanation:*
+
 The inversion pairs in this example are: (9, 7), (9, 5), (9, 4), (9, 6), (7, 5), (7, 4), (7, 6), (5, 4)
 
 **Solution**
