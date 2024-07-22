@@ -12,18 +12,14 @@ Return the maximum binary tree built from nums.
 
 **Example 1**
 
-*Input:* 
-
+*Input:*  
 3,2,1,6,0,5  
 
-*Output:* 
-
+*Output:*  
 6,3,5,null,2,0,null,null,1
 
-*Explanation:* 
-
-The recursive calls are as follow:
-
+*Explanation:*  
+The recursive calls are as follow:  
 - The largest value in [3,2,1,6,0,5] is 6. Left prefix is [3,2,1] and right suffix is [0,5].
     - The largest value in [3,2,1] is 3. Left prefix is [] and right suffix is [2,1].
         - Empty array, so no child.
